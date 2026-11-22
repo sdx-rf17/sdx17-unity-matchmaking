@@ -1,0 +1,41 @@
+# Unity standard .gitignore
+
+# Unity generated folders — never commit these.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+
+# Unity crash and memory captures
+/[Mm]emoryCaptures/
+
+# Visual Studio / Rider generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# .meta files: KEEP them. Unity uses .meta files to track asset GUIDs.
+# Never add *.meta to this ignore list; deleting a .meta breaks references.

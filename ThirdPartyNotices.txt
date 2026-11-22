@@ -1,0 +1,27 @@
+Sdx17 Matchmaking — Third-Party Notices
+Package: com.sdx17.matchmaking, version 0.1.0
+Publisher: Sdx17 (GitHub: sdx-rf17)
+Licence: MIT (see LICENSE in the package root)
+
+No third-party code, fonts, audio or assets are included in this package.
+
+All code in this package (Runtime/, Editor/, Samples~/, Tests~/) is
+original work by Sdx17, written for this package, and MIT licensed.
+No code has been copied from other Unity assets, open-source projects,
+tutorials, or generated code libraries.
+
+No bundled dependencies: the package depends only on Unity itself
+(Unity 2022.3 LTS; UnityEngine and UnityEditor APIs). No third-party
+packages, plugins, DLLs, or libraries are bundled or required.
+
+No backend service is bundled: the included MockMatchmakingBackend is
+original Sdx17 code that runs entirely in memory in the local Unity
+process. No third-party backend, SDK, or online service is included
+or called.
+
+No fonts, audio, images, models, textures, or other media assets are
+included in this package.
+
+If a future version adds any third-party material, this file will be
+updated to list it, with its licence and source, before that version
+is published.
